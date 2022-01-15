@@ -1,4 +1,22 @@
-# Plot Collection
+# *Plot Collection*
+*edit by ominiv*
 
-분석에 활용하기 좋은 다양한 plot을 R, python을 활용해 그립니다.
-- sankey
+In this repo, I have collected various plots for interpretation of the analysis results. This is for study purpose only, and you can get more detailed information by accessing the official website of each library. 
+
+---
+
+## *Contents*
+- Distribution
+    - [Box]()
+    - [scatter]()
+- Pairwise Relationships
+    - [Pair-plot]()  `seaborn`
+- Regression 
+    - [Regplot]() `seaborn`
+- Diagram
+    - [sankey diagram]() `networkD3`
+
+---
+
+- my favorite pallete 
+
