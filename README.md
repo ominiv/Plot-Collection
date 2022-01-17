@@ -7,16 +7,20 @@ In this repo, I have collected various plots for interpretation of the analysis 
 
 ## *Contents*
 - Distribution
-    - [Box]()
-    - [scatter]()
+    - Box
+    - scatter
+    - line
+    - bar
+    - violin
 - Pairwise Relationships
-    - [Pair-plot]()  `seaborn`
+    - [Pair-plot](https://github.com/ominiv/Plot_Collection/blob/master/Pair-plot.ipynb)  `seaborn`
 - Regression 
-    - [Regplot]() `seaborn`
+    - [Regplot](https://github.com/ominiv/Plot_Collection/blob/master/Regplot.ipynb) `seaborn`
 - Diagram
-    - [sankey diagram]() `networkD3`
+    - [sankey-diagram](https://github.com/ominiv/Plot_Collection/blob/master/sankey-diagram-in-r.ipynb) `networkD3`
+    - venn-diagram
 
 ---
 
-- my favorite pallete 
+## *my favorite pallete*
 
