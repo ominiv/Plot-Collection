@@ -19,6 +19,8 @@ In this repo, I have collected various plots for interpretation of the analysis 
 - Diagram
     - [sankey-diagram](https://github.com/ominiv/Plot_Collection/blob/master/sankey-diagram-in-r.ipynb) `networkD3`
     - venn-diagram
+- Clustering 
+    - [silhouette](https://github.com/ominiv/Plot_Collection/blob/master/Silhouette_analysis.ipynb) `matplotlib`,`silhouette_samples`
 
 ---
 
