@@ -10,7 +10,7 @@ In this repo, I have collected various plots for interpretation of the analysis 
     - Box
     - [violin](https://github.com/ominiv/Plot_Collection/blob/master/Violin.ipynb) `matplotlib`
     - [Scatter](https://github.com/ominiv/Plot_Collection/blob/master/Scatter.ipynb)  `matplotlib`
-    - [Density](https://github.com/ominiv/Plot_Collection/blob/master/Distplot.ipynb) `seaborn`
+    - [Density](https://github.com/ominiv/Plot_Collection/blob/master/Displot.ipynb) `seaborn`
     - line
     - bar
 - Pairwise Relationships
